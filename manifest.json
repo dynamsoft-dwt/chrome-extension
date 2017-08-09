@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+
+    "name": "Dynamic Web TWAIN",
+    "description": "Web browser based document scanning using Dynamic Web TWAIN.",
+    "version": "1.0",
+
+    "browser_action": {
+        "default_icon": "dwt-16px.png",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "128": "dwt-128px.png"
+    }
+}
