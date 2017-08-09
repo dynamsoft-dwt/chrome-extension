@@ -2,6 +2,7 @@
     "manifest_version": 2,
 
     "name": "Dynamic Web TWAIN",
+    "short_name": "dwt",
     "description": "Web browser based document scanning using Dynamic Web TWAIN.",
     "version": "1.0",
 
